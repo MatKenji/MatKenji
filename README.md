@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Oi, meu nome é Matheus Kenji, e sou um estudante de Engenharia de robôs
+<h2 align="left">Oi, meu nome é Matheus Kenji, e sou um estudante de Engenharia de robôs
 
 ###
 
